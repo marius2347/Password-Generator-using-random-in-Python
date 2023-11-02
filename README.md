@@ -2,7 +2,7 @@
 <br>
 <h2>Features</h2>
 <ul>
-    <li> Free choose from: UpperCase, LowerCase, Numbers, Symbols</li>
+    <li> Free choose from: UpperCase, LowerCase, Numbers and Symbols</li>
     <li> Set length of the password </li>
     <li>Checking and printing errors if they occur</li>
     
